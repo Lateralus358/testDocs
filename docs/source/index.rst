@@ -11,7 +11,6 @@ Welcome to testDocs's documentation!
    :caption: Contents:
 
    installation
-   index
 
 
 
