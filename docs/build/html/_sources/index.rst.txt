@@ -10,6 +10,9 @@ Welcome to testDocs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   installation
+   index
+
 
 
 Indices and tables
