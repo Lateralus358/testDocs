@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'testDocs'
-copyright = '2020, luke'
-author = 'luke'
+project = 'Spotfire User Guide'
+copyright = '2020, Luke Feeney'
+author = 'Luke Feeney'
 
 # The full version, including alpha/beta/rc tags
 release = 'PA1'
